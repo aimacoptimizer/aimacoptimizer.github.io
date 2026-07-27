@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://aimacoptimizer.com/sitemap.xml
+Sitemap: https://aimacoptimizer.com/blog/sitemap-index.xml
