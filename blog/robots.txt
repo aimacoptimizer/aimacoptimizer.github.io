@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://aimacoptimizer.com/blog/sitemap-index.xml
